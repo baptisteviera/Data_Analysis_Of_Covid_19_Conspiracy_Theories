@@ -1,5 +1,5 @@
-# IC05_Covid19
+# Data Analysis Of Covid 19 Conspiracy Theories
 
-Bienvenue !
+Welcome!
 
-  Sur ce git vous retrouverez l'ensemble des codes, des visualisations en haute définition, des tweets aspirés et des dataframes assemblées pour les aspirations sur Twitter.
+You will find all the codes, high definition visualizations, sucked tweets and assembled dataframes for the aspirations on Twitter.
